@@ -1,5 +1,5 @@
 ## To Do Applicaton
-A functional, simple react app that probably has been beaten to death. However, this project served as a great exercise in reviewing React concepts such as props, components, state changes, handling form submissions.
+A functional, simple react app. This project served as a great exercise in understanding React concepts such as props, components, state changes and handling form submissions. I had fun creating this small projects. Hopefully there will be more!
 
 ## Demo
 
