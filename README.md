@@ -3,6 +3,6 @@ A functional, simple react app. This project served as a great exercise in under
 
 ## Demo
 
-
+![Demo](./demo.gif)
 
 You can edit, delete and even cross out based on your interactions as seen above.
